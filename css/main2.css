@@ -1,0 +1,81 @@
+body{
+    background-color: darkslategray;
+}
+.wrap{
+    width: 1200px;
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn1{
+    width: 120px;
+    height: 40px;
+    display: inline-block;
+    text-decoration: none;
+    color: orangered;
+    text-align: center;
+    line-height: 40px;
+    border: 2px solid orangered;
+    border-radius: 10px;
+}
+.btn2{
+    width: 120px;
+    height: 40px;
+    display: inline-block;
+    text-decoration: none;
+    background-image: url(../rasmlar/z2.png);
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    border: 2px solid aqua;
+    border-radius: 25px;
+    margin-left: 50px;
+}
+.btn3{
+    width: 120px;
+    height: 40px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.btn4{
+    width: 120px;
+    height: 40px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: yellow;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
+.btn5{
+    width: 120px;
+    height: 40px;
+    display: inline-block;
+    text-decoration: none;
+    color: purple;
+    text-align: center;
+    line-height: 40px;
+    border: 2px solid purple;
+    margin-left: 50px;
+}
+.btn6{
+    width: 120px;
+    height: 40px;
+    display: inline-block;
+    text-decoration: none;
+    color: lime;
+    text-align: center;
+    line-height: 40px;
+    border: 2px solid lime;
+    border-radius: 10px;
+    margin-left: 50px;
+}
