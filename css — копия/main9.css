@@ -1,0 +1,38 @@
+body{
+    background-color: #808080;
+}
+.text-block{
+    width: 1200px;
+    margin: 0 auto;
+}
+.text-block-1{
+    width: 600px;
+    height: 140px;
+    border: 1px solid white;
+    background-color: white;
+    position: relative;
+}
+.h{
+    color: red;
+    font-size: 20px;
+}
+.h2{
+    color: red;
+    font-size: 15px;
+}
+.text-block-item-1::before{
+    content: "";
+    border: 72px solid transparent;
+    border-left-color: white;
+    position: absolute;
+    left: 600px;
+    top: -2px;
+    z-index: 1;
+    display: none;
+}
+.text-block-item-1::before{
+    display: block;
+}
+.text-block-item-2{
+    margin-left: 200px;
+}

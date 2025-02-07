@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(247, 247, 148);
+}
+.wrap{
+    width: 1200px;
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+.primary{
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    font-size: 12px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid blue;
+    float: left;
+}
+.success{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    font-size: 12px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid green;
+    float: left;
+    margin-left: 5px;
+}
+.info{
+    width: 70px;
+    height: 30px;
+    background-color: lightblue;
+    color: white;
+    font-size: 12px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid lightblue;
+    float: left;
+    margin-left: 5px;
+}
+.warning{
+    width: 100px;
+    height: 30px;
+    background-color: orange;
+    color: white;
+    font-size: 12px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid orange;
+    float: left;
+    margin-left: 5px;
+}
+.danger{
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid red;
+    float: left;
+    margin-left: 5px;
+}
